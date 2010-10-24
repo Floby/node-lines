@@ -19,5 +19,5 @@ to 'data' events on the same stream with no loss of data.
 install it via npm
 	npm install lines
 
-or get the code [the repository](http://github.com/Floby/node-lines) and link lines.js from your ~/.node_libraries/
+or get the code from [the repository](http://github.com/Floby/node-lines) and link lines.js from your ~/.node_libraries/
 
