@@ -13,7 +13,8 @@ here is a simple example which explains almost everything
 	    });
 	}).listen('/tmp/mysock');
 
-lines doesn't work on non-encoded streams.
+lines doesn't work on non-encoded streams. note that you still can listen
+to 'data' events on the same stream with no loss of data.
 
 install it via npm
 	npm install lines
