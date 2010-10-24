@@ -1,0 +1,22 @@
+{
+    "name": "lines",
+    "version": "1.0.0",
+    "description": "tiny utility for line per line processing with streams",
+    "keywords": ["stream", "lines"],
+    "url": "http://github.com/Floby/node-lines",
+    "author": {
+	"name": "Florent Jaby",
+	"email": "florent.jaby@gmail.com",
+	"url": "http://github.com/Floby"
+    },
+
+    "main": "./lines",
+    "repository": {
+	"type": "git",
+	"url": "http://github.com/Floby/node-lines.git"
+    },
+    
+    "engines": {
+	"node": ">= 0.2.2"
+    }
+}
