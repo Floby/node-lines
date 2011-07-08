@@ -17,7 +17,8 @@ Lines doesn't work on non-encoded streams. Note that you can still listen
 to 'data' events on the same stream with no loss of data.
 
 install it via npm
-	npm install lines
+	
+    npm install lines
 
 or get the code from [the repository](http://github.com/Floby/node-lines)
 
