@@ -1,4 +1,4 @@
-** This module is long deprecated. Please do not use it anymore (was for node 0.1). I suggest you use [split](http://github.com/dominictarr/split) **
+**This module is long deprecated. Please do not use it anymore (was for node 0.1). I suggest you use [split](http://github.com/dominictarr/split)**
 
 this is a tiny utility function to help processing readable streams line per line with [NodeJS](http://github.com/joyent/node)
 
